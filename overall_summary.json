@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "total_interactions": {
+                "all": 43256623,
+                "video_views": 41542071,
+                "non_video_interactions": 1714552,
+                "shares": 41918,
+                "reactions": 1625831,
+                "comments": 46803
+            },
+            "total_post": {
+                "all": 247,
+                "photo": 173,
+                "video": 73,
+                "link": 1
+            },
+            "interactions_by_type": [
+                {
+                    "id": "photo",
+                    "name": "Photo",
+                    "count": 173,
+                    "interactions": 1231104
+                },
+                {
+                    "id": "video",
+                    "name": "Video",
+                    "count": 73,
+                    "interactions": 41917594
+                },
+                {
+                    "id": "other",
+                    "name": "Others",
+                    "count": 41,
+                    "interactions": 107925
+                }
+            ]
+        }
+    ]
+}
